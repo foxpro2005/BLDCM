@@ -2,12 +2,12 @@
 
 void main(void)
 {
-    unint32_t j=0;
+    uint32_t i = 0, j=0;
     
     bsp_init();
     
     while(1){
-    ;;;
+    i++;
     j++;
     }
 }
