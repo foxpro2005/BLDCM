@@ -5,6 +5,6 @@ void main(void)
     bsp_init();
     
     while(1){
-    
+    ;;;
     }
 }
